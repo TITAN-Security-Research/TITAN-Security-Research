@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, we are TITAN Security</h1>
 <h3 align="center">A Cybersecurity Research Organization</h3>
 
-- 🌐 Our website <a href="https://titansecurity.it" **titansecurity.it** </a>
+- 🌐 Our website <a href="https://titansecurity.it"> **titansecurity.it** </a>
 
 - 📫 How to reach us **info@titansecurity.it**
 
